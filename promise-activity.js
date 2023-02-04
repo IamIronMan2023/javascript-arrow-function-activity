@@ -10,3 +10,6 @@ function isEmailValid(email) {
 let email1 = "juan.delacruz@kodego";
 
 console.log(isEmailValid(email1));
+
+//Convert this to a promise
+//Additional challenge make the promise async
